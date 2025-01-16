@@ -1,2 +1,4 @@
 # Git-test
-Hello This the repo for my git testing 
+Bansil Ghori
+Hello This the repo for my git testing.
+
